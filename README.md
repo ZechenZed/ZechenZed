@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ZechenZed
-- 👀 I’m interested in autonomous driving.
-- 🌱 I’m currently learning SLAM, CV, CarlaSimulator.
-- 📫 How to reach me fluffyzed2@gmail.com
+Hi, I’m @ZechenZed
+I’m interested in SLAM, CV, ML & DL.
+I'm currently doing a project using only RGB input to predict blood pressure. 
+Contact info: fluffyzed2@gmail.com or zechenzh@andrew.cmu.edu
 
 <!---
 ZechenZed/ZechenZed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
